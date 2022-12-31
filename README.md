@@ -9,6 +9,9 @@
   - [Screenshots](#screenshots)
   - [Contributors](#contributors)
   
+  # Fdroid Repository
+  [TouchDroid](https://f-droid.org/packages/com.akshayaap.mouseremote/).
+  
   ## Technologies
   ### For Desktop Server Application
   - C++.
